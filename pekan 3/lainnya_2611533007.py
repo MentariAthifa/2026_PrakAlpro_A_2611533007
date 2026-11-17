@@ -51,3 +51,5 @@ print("objek1 is not objek3 =", hasil_3007)
 #Membandingkan identitas dan nilai
 print("\nPerbandingan identitas dan nilai")
 print("objek1 is objek3 =", objek1_3007 is objek3_3007)
+print("objek1 == objek3 =", objek1_3007 == objek3_3007)
+

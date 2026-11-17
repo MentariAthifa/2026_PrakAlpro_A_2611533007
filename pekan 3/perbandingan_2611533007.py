@@ -38,3 +38,4 @@ print("0 < angka-1 < 100 =", hasil)
 
 hasil = 0 < angka2_3007 < 100
 print("0 < angka-2 < 100 =", hasil)
+
