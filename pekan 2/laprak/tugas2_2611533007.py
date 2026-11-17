@@ -46,7 +46,7 @@ print("ID Token Sinyal:", id_token_3007, "| Tipe:", type(id_token_3007))
 print("\n=== STATUS KELULUSAN PRAKTIKUM ===")
 
 print("Batas Minimum Nilai:", BATAS_MINIMUM_NILAI)
-=======
+
 # ==========================================
 # SISTEM REGISTRASI PRAKTIKAN ALPRO 2026
 # ==========================================
@@ -94,5 +94,5 @@ print("ID Token Sinyal:", id_token_3007, "| Tipe:", type(id_token_3007))
 print("\n=== STATUS KELULUSAN PRAKTIKUM ===")
 
 print("Batas Minimum Nilai:", BATAS_MINIMUM_NILAI)
->>>>>>> 45cc1ded8838115dacd16d20aa506ab9607d4717
+
 print("Apakah Dinyatakan Lulus?:", lulus_3007, "| Tipe:", type(lulus_3007))

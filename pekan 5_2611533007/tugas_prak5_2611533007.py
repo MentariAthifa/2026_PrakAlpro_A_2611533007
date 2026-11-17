@@ -6,4 +6,4 @@ for i in range(1, tinggi_3007 + 1):
 
     for g in range(i):
        print("* ", end="")
-    print()
+    print() 

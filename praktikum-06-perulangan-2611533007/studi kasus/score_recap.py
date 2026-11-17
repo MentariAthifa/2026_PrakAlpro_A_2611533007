@@ -1,4 +1,3 @@
-
 PASS_SCORE = 65
 student_3007 = int(input("Number of Student: "))
 

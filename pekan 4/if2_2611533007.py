@@ -4,4 +4,4 @@ if ipk_3007 > 2.75:
     print("Anda Lulus dengan Sangat Memuaskan dengan IPK" + str(ipk_3007))
 else:
     print("Anda Tidak Lulus")
-print("Progarm Selesai")
+print("Program Selesai")
